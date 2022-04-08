@@ -5,7 +5,7 @@ class Player:
     def __init__(self, letter):
         self.letter = letter
         
-    def get_move(self,                                                                                                  game):
+    def get_move(self,                                                                                                 game):
         pass
     
 class RandomComputerPlayer(Player):
